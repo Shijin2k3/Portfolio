@@ -374,6 +374,12 @@ border-radius: .8rem;
     .portfolio-container{
         flex-direction: column;
     }
+    .home-img img{
+        width: 100%;
+    }
+    .about-img img{
+        width: 100%;
+    }
 }
 @media(max-width:450px){
     html{
